@@ -1,6 +1,4 @@
 # Junior-Final-Project
-A 3D exploration game made in unity
-Junior Final Project
 Your final project is to create an exploration game in Unity. It may be a 1st person or 3rd person
 game. Use the terrain tools and assets from the asset store to create an environment for the
 player to explore. The game should have a beginning, middle and end. The storyline and theme
