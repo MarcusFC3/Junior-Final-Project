@@ -9,7 +9,7 @@ solving a puzzle, etc. The game does not have to be long and involved to be good
 scope creep! A player should be able to finish it in a few minutes, but it should be interesting
 and creative.
 Grading will be based on the quantity and quality of you work, level of detail, feel of game-play,
-and creativity. An basic game that that just collects some objects and says game-over will
+and creativity. A basic game that just collects some objects and says game-over will
 receive a ‘C’ at best. To add interest you can use music, assets and features that set your game
 apart. Features that require some degree of coding will be worth more than those that don’t.
 After all, this is a programming class!
